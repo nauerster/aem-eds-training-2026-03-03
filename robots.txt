@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-eds-training-2026-03-03--nauerster.aem.live/sitemap.xml
